@@ -37,7 +37,7 @@
 
 ```
  {Windows Powershell / Command Prompt / Linux}
-  > git clone https://github.com/user/PythonExamples-Help.git
+  > git clone https://github.com/filoucool/PythonExamples-Help.git
 ```
 
 <ul>
