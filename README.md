@@ -1,6 +1,6 @@
 <H1> Exemples de codes en Python </H1>
 
-<P> Voici une librairie de code pour plusieurs sensors pour Arduino. Cette libraire est 100% gratuite et ouverte à tous. <BR>
+<P> Voici une librairie de code en Python. Cette librairie est 100% gratuite et ouverte à tous. <BR>
  
 
 </P>
