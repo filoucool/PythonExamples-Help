@@ -1,9 +1,46 @@
-# PythonExamples-Help
+<H1> Exemples de codes en Python </H1>
 
+<P> Voici une librairie de code pour plusieurs sensors pour Arduino. Cette libraire est 100% gratuite et ouverte à tous. <BR>
+ 
 
-Library of python codes that I think could bne beneficial for others.
-I have many many more codes I can share BUT I am a perfectionist (sometimes) and would like to share them only when I feel like they are good enough.
+</P>
 
-For now, enjoy the few codes I have available.
+<H1> Vous ne trouvez pas ce qu'il vous faut? </H1>
+<ul>
+  <li> Félix Chenette-Stewart, Rachid Benali ou Mauricio Gomez sur le Omnivox Gérald-Godin</li>
+  <li> Ouvrir un <a href="https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue"><span>issue</span></a></li>
+  <li> Aller au bureau des professeurs</li>
+ <P> <strong> <u> Il est préférable d'ouvrir un <a href="https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue"><span>issue</span></a> </u><strong> </p>
+ </ul>
+ 
+<H1> Contributeurs: </H1>
+<ul>
+  <li> Félix Chenette-Stewart [Étudiant]</li>
+  <li> Rachid Benali [Professeur]</li>
+  <li> Mauricio Gomez [Professeur]</li>
+ </ul>
+ 
+ <H1> Liens YouTube: </H1>
+<ul>
+  <li> www.youtube.com/ </li>
+  <li> www.youtube.com/ </li>
+  <li> www.youtube.com/ </li>
+  <li> www.youtube.com/ </li>
+  <li> www.youtube.com/ </li>
+  <li> etc. </li>
+ </ul>
+ 
+<H1> Comment Télécharger les codes? </H1>
+<ul>
+ <li> Via git clone </li>
+</ul>
 
-Toodles!
+```
+ {Windows Powershell / Command Prompt / Linux}
+  > git clone https://github.com/user/PythonExamples-Help.git
+```
+
+<ul>
+ <li> <a href="https://www.instructables.com/Downloading-Code-From-GitHub/"><span>Via GitHub.com</span></a> </li>
+ <li> <a href="https://desktop.github.com/"><span>Via GitHub Desktop</span></a> </li>
+</ul>
